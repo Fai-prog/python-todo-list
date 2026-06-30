@@ -51,32 +51,24 @@ Make sure you have **Python 3.x** installed.
 # Clone the repository
 git clone https://github.com/your-username/todo-list-python.git
 
-# Navigate into the folder
-cd todo-list-python
-
-# Run the program
-python todo_list.py
-```
-
----
 
 ## 🖥️ Sample Output
 
 ```
-===  To-Do List Program mein Khush Aamdeed!  ===
+===  Welcome TO-DO list Programm!  ===
 
 ----------------------------------
      TO-DO LIST  MAIN MENU
 ----------------------------------
-  1. Task Add Karo
-  2. Tasks Dekho
-  3. Task Complete Karo
-  4. Task Delete Karo
+  1. Add Task 
+  2. View Task
+  3. Complete Task
+  4. Task Delete
   5. Exit
 ----------------------------------
-  Apna choice enter karo (1-5): 1
-  Task ka naam likho: Finish Python Assignment
-  [+] Task add ho gayi: 'Finish Python Assignment'
+  Enter Your Choice (1-5): 1
+  Enter the name of Task: Finish Python Assignment
+  [+] Task added: 'Finish Python Assignment'
 
 =============================================
        TO-DO LIST
@@ -85,16 +77,7 @@ python todo_list.py
 =============================================
 ```
 
----
 
-## 📂 Project Structure
-
-```
-todo-list-python/
-│
-├── todo_list.py      # Main program file
-└── README.md         # Project documentation
-```
 
 ---
 
@@ -106,7 +89,7 @@ todo-list-python/
 
 ## 👨‍💻 Author
 
-**Ashra**  
+Faiza Ashraf 
 Internship Trainee | Python Fundamentals Track  
 
 ---
