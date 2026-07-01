@@ -1,6 +1,6 @@
 # 📝 To-Do List — Python CLI App
 
-> **Internship Task 1** | A command-line To-Do List application built with core Python concepts.
+> A command-line To-Do List application built with core Python concepts.
 
 ---
 
